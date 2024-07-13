@@ -69,6 +69,3 @@ The application uses The Movie Database (TMDb) API to fetch movie posters. The A
 - [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api)
 - [Numpy](https://numpy.org/)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
