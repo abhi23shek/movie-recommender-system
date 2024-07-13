@@ -23,7 +23,7 @@ This repository contains a Streamlit-based web application for recommending movi
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/abhi23shek/movie-recommender-system.git]
+    git clone https://github.com/abhi23shek/movie-recommender-system.git
     cd movie-recommender-system
     ```
 
